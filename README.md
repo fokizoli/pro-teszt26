@@ -3,3 +3,4 @@
 # Cseke Tamás
 #megváltoztattam "Tamás"
 # módosítás asztali gépről
+# hibajegy doksi feltöltése
