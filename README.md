@@ -2,3 +2,4 @@
 # módosítás Githubon
 # Cseke Tamás
 #megváltoztattam "Tamás"
+# módosítás asztali gépről
