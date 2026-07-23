@@ -4,3 +4,4 @@
 #megváltoztattam "Tamás"
 # módosítás asztali gépről
 # hibajegy doksi feltöltése
+# pt 14
